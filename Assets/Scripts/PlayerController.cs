@@ -6,15 +6,20 @@ namespace TTZ
 {
     public class PlayerController : MonoBehaviour
     {
-        private void FixedUpdate()
+
+        public Spawner spawner;
+        public CloudController cloudController; 
+        private void Update()
         {
-            if(Input.GetKeyDown(KeyCode.X))
+            if (Input.GetKeyDown(KeyCode.X))
             {
                 Debug.Log("X key down");
+                spawner.Spawn();
             }
             if (Input.GetKeyDown(KeyCode.Z))
             {
                 Debug.Log("Z key down");
+                cloudController.Action();
             }
             if (Input.GetKeyDown(KeyCode.Space))
             {
