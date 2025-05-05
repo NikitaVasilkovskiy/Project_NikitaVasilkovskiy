@@ -8,7 +8,8 @@ namespace TTZ
     {
 
         public Spawner spawner;
-        public CloudController cloudController; 
+        public CloudController cloudController;
+        public List<Refresh> villagers;
         private void Update()
         {
             if (Input.GetKeyDown(KeyCode.X))
@@ -24,6 +25,10 @@ namespace TTZ
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 Debug.Log("Space key down");
+                foreach(var villager in villagers)
+                {
+                    villager.ChangeTool();
+                }
             }
         }
     }

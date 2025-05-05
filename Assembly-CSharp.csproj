@@ -63,12 +63,14 @@
     <Compile Include="Assets\XLAB\3.4_Scripts\Cloud.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\CloudController.cs" />
+    <Compile Include="Assets\Scripts\Cloud.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\Refresh.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\Spawner.cs" />
     <Compile Include="Assets\XLAB\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
     <Compile Include="Assets\XLAB\Scripts\FreeCamera.cs" />
     <Compile Include="Assets\Scripts\CloudController.cs" />
     <Compile Include="Assets\Generic.cs" />
+    <Compile Include="Assets\Scripts\Refresh.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\PlayerController.cs" />
   </ItemGroup>
