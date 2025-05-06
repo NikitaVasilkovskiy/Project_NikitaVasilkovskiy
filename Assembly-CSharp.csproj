@@ -9,7 +9,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>Golf</RootNamespace>
     <ProjectGuid>{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -64,6 +64,7 @@
     <Compile Include="Assets\XLAB\Scripts\SpawnerStone.cs" />
     <Compile Include="Assets\XLAB\Scripts\Player.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\Cloud.cs" />
+    <Compile Include="Assets\XLAB\Scripts\PlayerController.cs" />
     <Compile Include="Assets\XLAB\Scripts\LevelController.cs" />
     <Compile Include="Assets\XLAB\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
@@ -71,11 +72,16 @@
     <Compile Include="Assets\Scripts\Cloud.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\Refresh.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\Spawner.cs" />
+    <Compile Include="Assets\XLAB\Scripts\States\GameState.cs" />
     <Compile Include="Assets\XLAB\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
+    <Compile Include="Assets\XLAB\Scripts\GameEvents.cs" />
     <Compile Include="Assets\Scripts\CloudController.cs" />
+    <Compile Include="Assets\XLAB\Scripts\States\GameplayState.cs" />
+    <Compile Include="Assets\XLAB\Scripts\States\MainMenuState.cs" />
     <Compile Include="Assets\Generic.cs" />
     <Compile Include="Assets\Scripts\Refresh.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\XLAB\Scripts\States\GameoverState.cs" />
     <Compile Include="Assets\XLAB\3.4_Scripts\PlayerController.cs" />
     <Compile Include="Assets\XLAB\Scripts\Stone.cs" />
   </ItemGroup>

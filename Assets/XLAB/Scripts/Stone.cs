@@ -16,7 +16,7 @@ public class Stone : MonoBehaviour
             {
                 if (!other.isAffect)
                 {
-                    onCollisionStone?.Invoke();
+                    GameEvents.CollisionStonesInvoke(collision);
                 }
             }
         }

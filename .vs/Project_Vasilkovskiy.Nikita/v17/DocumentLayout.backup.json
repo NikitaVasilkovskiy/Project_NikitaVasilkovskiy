@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|c:\\users\\user\\project_vasilkovskiy.nikita\\assets\\xlab\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|c:\\users\\user\\project_vasilkovskiy.nikita\\assets\\xlab\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|solutionrelative:assets\\xlab\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\assets\\xlab\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|solutionrelative:assets\\xlab\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\assets\\xlab\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|solutionrelative:assets\\xlab\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\assets\\xlab\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|solutionrelative:assets\\xlab\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\assets\\xlab\\scripts\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|solutionrelative:assets\\xlab\\scripts\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6A473FB-94BE-A49A-2BB6-8BBAA1E6424B}|Assembly-CSharp.csproj|C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\assets\\xlab\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,19 +39,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\XLAB\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\XLAB\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:00:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\XLAB\\Scripts\\GameEvents.cs",
+              "ToolTip": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\XLAB\\Scripts\\GameEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:42:35.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\XLAB\\Scripts\\LevelController.cs",
+              "ToolTip": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\LevelController.cs",
+              "RelativeToolTip": "Assets\\XLAB\\Scripts\\LevelController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:12:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stone.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\Stone.cs",
+              "RelativeDocumentMoniker": "Assets\\XLAB\\Scripts\\Stone.cs",
+              "ToolTip": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\Stone.cs",
+              "RelativeToolTip": "Assets\\XLAB\\Scripts\\Stone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:06:02.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\XLAB\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\XLAB\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T11:45:54.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T11:45:54.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Stick.cs",
               "DocumentMoniker": "C:\\Users\\user\\Project_Vasilkovskiy.Nikita\\Assets\\XLAB\\Scripts\\Stick.cs",
               "RelativeDocumentMoniker": "Assets\\XLAB\\Scripts\\Stick.cs",
@@ -43,8 +107,7 @@
               "RelativeToolTip": "Assets\\XLAB\\Scripts\\Stick.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T11:07:33.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T11:07:33.181Z"
             }
           ]
         }
